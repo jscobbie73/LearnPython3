@@ -5,4 +5,4 @@ ip_1 = '10.0.0.1'
 ip_2 = '172.16.32.1'
 ip_3 = '192.168.0.1'
 
-print(ip_addr1, ip_addr2, ip_addr3)
+print(ip_1, ip_2, ip_3)
